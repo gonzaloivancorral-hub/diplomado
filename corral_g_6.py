@@ -11,7 +11,6 @@ Original file is located at
 # 1. PREPARAR EL ENTORNO
 # ==========================================================================
 # Rúbrica: Ejecutar el programa para asegurarse de que funcione correctamente.
-!pip install -q streamlit wordcloud plotly nltk
 
 # ==========================================================================
 # 2. IMPORTACIONES Y CONFIGURACIÓN
