@@ -1,8 +1,8 @@
-Plaintext
 streamlit
 pandas
 plotly
-wordcloud
-nltk
 matplotlib
 numpy
+nltk
+setuptools
+wordcloud
